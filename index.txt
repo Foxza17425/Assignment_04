@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title> index.html </title>
+    </head>
+    <body bgcolor = "Brown" text ="yellow">
+        <!--!ชื่อหัวข้อ-->
+        <img src ="yellow-china-icon.png" width ="90" height ="100"></img>
+        &nbsp;<font size = "15"><b> อาหารฮ่องกง </b></font>
+        <img src ="yellow-china-icon.png" width ="90" height ="100"></img>
+        <br>
+        <hr width="1500" size="2" color="yellow"><br>
+        <!--เมนูอาหารฮ่องกง-->
+        &nbsp;<font size = "5"><b><u>เมนูอหาร</u></b></font><br>
+        <img src="Hong-kong-no-backgrounds.png" width="290" height="250"></img>
+        &nbsp;&nbsp;&nbsp;&nbsp;<img src="hongkong-food.jpg" width="290" height="250"></img><br>
+        <br>
+        <img src ="R.png" width ="13" height ="13"></img>
+        &nbsp;<a href="ติ่มซำ (ขนมจีบไส้หมูสับ).html" style="color:greenyellow;" >ติ่มซำ (ขนมจีบไส้หมูสับ)</a><br>
+        <img src ="R.png" width ="13" height ="13"></img>
+        &nbsp;<a href="ห่านย่าง-เป็ดย่าง สไตล์ฮ่องกง.html"  style="color:greenyellow">ห่านย่าง-เป็ดย่าง สไตล์ฮ่องกง</a><br>
+        <img src ="R.png" width ="13" height ="13"></img>
+        &nbsp;<a href="บะหมี่เกี๊ยวฮ่องกง (บะหมี่เกี๊ยวหมู).html" style="color:greenyellow">บะหมี่เกี๊ยวฮ่องกง (บะหมี่เกี๊ยวหมู)</a><br>
+        <img src ="R.png" width ="13" height ="13"></img>
+        &nbsp;<a href="วาฟเฟิลฮ่องกง.html" style="color:greenyellow">วาฟเฟิลฮ่องกง</a><br>
+        <!--เครดิต-->
+        <hr width="1500" size="2" color="yellow"><br>
+        &nbsp;<b>Copyright รหัสนักศึกษา 63124170107 ชื่อนายสรัณกร พอจิต วิชา การเขียนโปรแกรมระบบเว็บ ปีการศึกษา 2565 </b>
+
+        
+        
+        
+    </body>
+</html>
